@@ -1,0 +1,52 @@
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	﻿2026-10-20T05:43:32.7456219Z ##[group]Run .venv/bin/python src/harness.py --gate
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7456469Z ^[[36;1m.venv/bin/python src/harness.py --gate^[[0m
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7507942Z shell: /usr/bin/bash -e {0}
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7508092Z env:
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7508251Z   pythonLocation: /opt/hostedtoolcache/Python/3.13.16/x64
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7508507Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.13.16/x64/lib/pkgconfig
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7508763Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7508986Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7509208Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7509431Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.13.16/x64/lib
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.7509734Z ##[endgroup]
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9192822Z {
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9193184Z   "gain": 0.0,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9193436Z   "seed": 42,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9193589Z   "episodes": 30,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9193721Z   "successes": 1,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9193960Z   "errors": [
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194103Z     0.2788535969157675,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194242Z     0.9499784895546661,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194377Z     0.4499413632617615,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194502Z     0.5535785237023545,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194626Z     0.4729424283280248,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194748Z     0.3533989748458226,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9194874Z     0.7843591354096908,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195002Z     0.8261223347411677,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195130Z     0.15615636062945915,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195258Z     0.9404055611238593,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195386Z     0.5627240503927933,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195510Z     0.010710576206724776,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195642Z     0.9469280606322728,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195765Z     0.602324698626703,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9195888Z     0.2997688755590464,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196024Z     0.08988296120643335,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196152Z     0.5591187559186066,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196277Z     0.17853136775181744,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196405Z     0.6188609133556533,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196530Z     0.987002480643878,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196652Z     0.6116385036656158,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9196920Z     0.3962787899764537,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197043Z     0.31949896696401625,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197173Z     0.6890410003764369,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197294Z     0.9144261444135624,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197418Z     0.32681090977474647,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197804Z     0.8145083132397042,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9197925Z     0.806567246333072,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198053Z     0.6949887326949196,
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198184Z     0.20745206273378214
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198301Z   ],
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198425Z   "success_rate": 0.03333333333333333
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198586Z }
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9198709Z FAIL: success rate below 0.9
+lint-test-bench	Run .venv/bin/python src/harness.py --gate	2026-10-20T05:43:32.9349736Z ##[error]Process completed with exit code 1.

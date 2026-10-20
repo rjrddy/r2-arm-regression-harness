@@ -20,6 +20,6 @@ make lint test bench
 .venv/bin/python src/harness.py --gate
 ```
 
-5. Decisions and limits: An original open single-joint arm task is included as XML; no downloaded robot assets. Fixed seeds and simulator version reproduce scores locally. Cross-platform floating-point bit identity is not guaranteed. The gate requires success rate >=0.9. Recorded failing baseline is evidence/gate-failure.log. The deliberately failing PR is https://github.com/rjrddy/startup-projects/pull/1; its arm-policy-gate failed in run 39375033765. The demo branch must not be merged.
+5. Decisions and limits: An original open single-joint arm task is included as XML; no downloaded robot assets. Fixed seeds and simulator version reproduce scores locally. Cross-platform floating-point bit identity is not guaranteed. The gate requires success rate >=0.9. Recorded failing baseline is evidence/gate-failure.log. The deliberately failing PR is https://github.com/rjrddy/r2-arm-regression-harness/pull/1; its standalone policy gate failed in run 39376399025. The demo branch must not be merged. The three-policy results table is evidence/policies.md; the standalone PR failure log is evidence/github-standalone-gate-failure.log.
 
 6. Next: Add multi-joint contact tasks and cross-platform tolerance analysis.
