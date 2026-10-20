@@ -1,0 +1,52 @@
+policy	Run python src/harness.py --gate	﻿2026-10-20T05:28:10.2556862Z ##[group]Run python src/harness.py --gate
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2557243Z ^[[36;1mpython src/harness.py --gate^[[0m
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2620457Z shell: /usr/bin/bash -e {0}
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2620723Z env:
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2621013Z   pythonLocation: /opt/hostedtoolcache/Python/3.13.16/x64
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2621452Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.13.16/x64/lib/pkgconfig
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2621885Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2622275Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2622661Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.13.16/x64
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2623051Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.13.16/x64/lib
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.2623378Z ##[endgroup]
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5439370Z {
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5440008Z   "gain": 0.0,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5440330Z   "seed": 42,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5440629Z   "episodes": 30,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5440942Z   "successes": 1,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5441342Z   "errors": [
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5441636Z     0.2788535969157675,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5441962Z     0.9499784895546661,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5442256Z     0.4499413632617615,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5442540Z     0.5535785237023545,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5442852Z     0.4729424283280248,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5443168Z     0.3533989748458226,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5443482Z     0.7843591354096908,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5444012Z     0.8261223347411677,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5444418Z     0.15615636062945915,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5444755Z     0.9404055611238593,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5445055Z     0.5627240503927933,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5445378Z     0.010710576206724776,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5445695Z     0.9469280606322728,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5445986Z     0.602324698626703,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5446284Z     0.2997688755590464,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5446582Z     0.08988296120643335,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5446890Z     0.5591187559186066,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5447191Z     0.17853136775181744,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5447516Z     0.6188609133556533,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5447836Z     0.987002480643878,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5448156Z     0.6116385036656158,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5448464Z     0.3962787899764537,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5448754Z     0.31949896696401625,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5449431Z     0.6890410003764369,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5449722Z     0.9144261444135624,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5450005Z     0.32681090977474647,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5450290Z     0.8145083132397042,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5450572Z     0.806567246333072,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5450853Z     0.6949887326949196,
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5451148Z     0.20745206273378214
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5451430Z   ],
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5451716Z   "success_rate": 0.03333333333333333
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5452074Z }
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5452357Z FAIL: success rate below 0.9
+policy	Run python src/harness.py --gate	2026-10-20T05:28:10.5708114Z ##[error]Process completed with exit code 1.
